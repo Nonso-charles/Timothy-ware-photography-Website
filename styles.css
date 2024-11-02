@@ -1,0 +1,57 @@
+.custom-img {
+    width: 100%;
+    height: auto;
+    border-radius: 3px solid #ccc;
+}
+
+.wedding-img {
+    width: 150px;
+    height: 150px;
+}
+
+.icon {
+    font-size: 18px;
+    color: gray;
+}
+
+.follow-me-text {
+    font-family: lora;
+}
+
+.contact-me-text {
+    font-family: lora;
+}
+
+.photos {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+
+ .portfolio-item {
+    margin-bottom: 30px;
+}
+
+ .photo {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.gallery {
+    margin-top: 20px;
+}
+
+ .success-message {
+    display: none;
+    color: green;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.custom-link {
+    font-size: 16px;
+    color: black;
+    font-family: lato;
+}
